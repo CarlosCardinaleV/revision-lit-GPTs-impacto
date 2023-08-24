@@ -6,5 +6,25 @@ En una sociedad cada vez mas influenciada por el avance tecnológico, las GPTs e
 
 ## Metodología
 Se utilizó el método de PRISMA para ir conociendo y filtrando las investigaciones que eran importantes en esta
-revisión de literatura. 
+revisión de literatura.
+
 ![Texto alternativo](imagenes/imagen1.png)
+
+## Resultados
+De las investigaciones revisados por multiples bases de datos, se obtuvo cuales son las ocupaciones más afectadas.
+Esto se puede visualizar en la siguiente gráfica:
+
+![Texto alternativo](imagenes/imagen2.png)
+
+De las aplicaciones más mencionadas para la automatización de tareas se encontró que era ChatGPT. Esto se puede observar mejor a continuación:
+
+![Texto alternativo](imagenes/imagen3.png)
+
+## Limitaciones
+Fueron muchas las investigaciones que no se usaron por su poca relevancia con el tema de investigación. 
+
+![Texto alternativo](imagenes/imagen4.png)
+
+## Link paper completo
+
+![link](./rev_lit.pdf)
