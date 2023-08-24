@@ -27,4 +27,4 @@ Fueron muchas las investigaciones que no se usaron por su poca relevancia con el
 
 ## Link paper completo
 
-![link](./rev_lit.pdf)
+![Link here](./rev_lit.pdf)
