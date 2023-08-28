@@ -30,3 +30,6 @@ Fueron muchas las investigaciones que no se usaron por su poca relevancia con el
 ## Link paper completo
 
 [Link here](./rev_lit.pdf)
+
+### Nota
+La investigación está en formato IEEE. No ha sido enviada a revisones ni a publicaciones en revistas científicas.
